@@ -96,13 +96,11 @@ h6 {
   background-color: white;
   padding-bottom: 1em;
 }
-
 #about img {
   max-width: 15em;
   position: relative;
   bottom: 7.5em;
 }
-
 #about .details {
   margin-top: -2em;
 }
@@ -193,6 +191,7 @@ h6 {
 .experience-topics ul li {
   list-style: none;
   color: #bbd2ff;
+  text-align: center;
   font-family: "Maven pro", sans-serif;
   font-weight: 500;
 }
